@@ -9,7 +9,7 @@ collection: portfolio
 Measuring how water vapor changes with altitude needs a sensor that can fly. The lab uses wavelength-modulation spectroscopy (WMS): a DFB laser is tuned across a water absorption line near 1392 nm, and the absorption signal gives the water-vapor concentration. My part was the hardware that keeps the laser safe and the payload that carries it.  
 
 ## My role
-I was the part of the Photonic Sensors Lab, IIT Gandhinagar where:
+I was the part of the [Photonic Sensors Lab](https://www.photonicsensorslab.com/), IIT Gandhinagar where:
 - **I Built:** The laser-driver protection circuit, from design to bench testing.
 - **I contributed to:** Modifying the benchtop system and integrating the payload (laser driver, data acquisition, GSM module, power management) and the field trials.
 - **Worked with:** Prof. Arup Lal Chakraborty, Dr. Shruti De, Hiteshi Meisheri and Dr. Pratik Prajapati.
